@@ -2,7 +2,7 @@
 
 <!-- HERO -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VISHWARUBAN%20S&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20%7C%20CYBERSECURITY&descAlignY=60&descSize=18&animation=fadeIn&color=gradient" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VISHWARUBAN%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20%7C%20CYBERSECURITY&descAlignY=60&descSize=18&animation=fadeIn&color=gradient" width="100%"/>
 
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions;Turning+real-world+problems+into+software;Learning+%7C+Building+%7C+Breaking+%7C+Improving" alt="Typing SVG" />
