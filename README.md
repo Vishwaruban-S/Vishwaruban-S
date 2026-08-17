@@ -28,11 +28,11 @@
 
 <div align="center">
 
-<big><strong>B.E. Computer Science Engineering @ SKCET</strong></big>
+***B.E. Computer Science Engineering @ SKCET***
 
 <br>
 
-<big><strong>BS in Data Science @ IIT Madras</strong></big>
+***BS in Data Science @ IIT Madras***
 
 <hr>
 
