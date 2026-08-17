@@ -28,41 +28,52 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
 
-### 👋 Hey, I'm Vishwaruban
+<td width="55%" valign="top">
 
-I'm a **Computer Science Engineering student at SKCET** who enjoys turning real-world problems into practical software solutions.
+### 👋 Vishwaruban S
 
-My main interests currently revolve around:
+**Computer Science Engineering Student**
+**IIT Madras BS — Data Science**
 
-* 🤖 Artificial Intelligence
-* 💻 Software Development
-* 🛡️ Cybersecurity
-* 🧠 Data Structures & Algorithms
-* 🚀 Rapid Prototyping & Hackathons
+I'm interested in building practical solutions using **AI, software and cybersecurity**.
 
-I learn best by **building things, breaking things, and figuring out how to make them better.**
+<br>
+
+🚀 **Builder** — Turning ideas into working prototypes
+🤖 **AI Enthusiast** — Exploring intelligent systems
+🛡️ **Security Explorer** — Learning cybersecurity
+🏆 **Hackathon Builder** — Building under pressure
+
+</td>
+
+<td width="45%" valign="top">
+
+### ⚡ CURRENTLY
+
+🎓 **B.E. CSE**
+Sri Krishna College of Engineering & Technology
+
+📊 **BS in Data Science**
+IIT Madras
+
+💻 **Focus**
+
+```text
+AI
+DSA
+Software Development
+Cybersecurity
+```
+
+🌱 **Learning**
+
+```text
+Build → Break → Learn → Improve
+```
 
 </td>
 
-<td width="40%" valign="top">
-
-### ⚡ Quick Facts
-
-🎓 **B.E. CSE** @ SKCET
-
-🤖 **AI & Software Enthusiast**
-
-🏆 **National-level Hackathon Winner**
-
-🚀 **Hackathon Builder**
-
-🧠 **DSA Learner**
-
-🌱 **Always Learning**
-
-</td>
 </tr>
 </table>
 
