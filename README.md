@@ -46,7 +46,7 @@
 
 ### 🎓
 
-**EDUCATION**
+<h2>EDUCATION</h2>
 
 B.E. CSE
 SKCET
