@@ -1,4 +1,4 @@
-  <div align="center">
+<div align="center">
 
 <!-- HERO -->
 
@@ -96,7 +96,8 @@ Cybersecurity
 
 ---
 
-# `01` — 🛠️ TECH STACK
+## TECH STACK
+<div align="center">
 
 ### Languages & Core Technologies
 
@@ -118,10 +119,12 @@ Cybersecurity
 <img src="https://img.shields.io/badge/Web%20Development-00ADD8?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
+</div>
+
 ---
 
 
-# `02` — 🔥 FEATURED PROJECTS
+## FEATURED PROJECTS
 
 <div align="center">
 
@@ -130,7 +133,7 @@ Cybersecurity
 
 <td width="50%" valign="top">
 
-## 🤖 SOLVINAI
+### 🤖 SOLVINAI
 
 **AI-powered municipal grievance management**
 
@@ -151,7 +154,7 @@ A system designed to help municipal dispatch clerks process, classify, prioritiz
 
 <td width="50%" valign="top">
 
-## 🛡️ AutoShield
+### AutoShield
 
 **AI-driven decentralized cyber immune system**
 
@@ -175,7 +178,7 @@ A cybersecurity concept combining edge computing, autonomous recovery and distri
 
 <td width="50%" valign="top">
 
-## 🌐 VaaniSetu
+### VaaniSetu
 
 **AI-powered communication project**
 
@@ -194,7 +197,7 @@ A project focused on using technology and AI to address real-world communication
 
 <td width="50%" valign="top">
 
-## 🖱️ TouchAutomate
+### TouchAutomate
 
 **No-code interaction concept**
 
@@ -218,13 +221,9 @@ Exploring ways to make industrial systems easier to operate through visual contr
 
 ---
 
-# `05` — 📊 GITHUB ANALYTICS
+## GITHUB ANALYTICS
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwaruban-S&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwaruban-S&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
 
 </div>
 
@@ -238,81 +237,44 @@ Exploring ways to make industrial systems easier to operate through visual contr
 
 ---
 
-# `06` — 🐍 CONTRIBUTION ACTIVITY
+## CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Vishwaruban-S/Vishwaruban-S/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
-</div>
 
 > **Note:** The snake requires a GitHub Actions workflow. We'll set that up separately after the README.
 
+</div>
+
 ---
 
-# `07` — 📚 CURRENTLY LEARNING
+## CURRENTLY LEARNING
 
+<div align="center">
+  
 <table>
-<tr>
-<td align="center">
 
-### 🧠 DSA
-
+### DSA
 Arrays • Strings • Linked Lists • Stacks • Queues • Graphs • Algorithms
 
-</td>
-
-<td align="center">
-
-### 🤖 AI
-
+### AI
 AI Applications • Generative AI • Intelligent Systems
 
-</td>
-</tr>
-
-<tr>
-<td align="center">
-
-### 🌐 Development
-
+### Development
 Web Development • APIs • Flask • Streamlit
 
-</td>
-
-<td align="center">
-
-### 🛡️ Security
-
+### Security 
 Cybersecurity • Secure Systems • Edge Computing
 
-</td>
-</tr>
 </table>
 
----
-
-# `08` — 🎯 2026 MISSION
-
-```text
-╭──────────────────────────────────────────────────────╮
-│                                                      │
-│  🚀 BUILD       →  Meaningful real-world projects   │
-│                                                      │
-│  🧠 MASTER      →  DSA & Computer Science           │
-│                                                      │
-│  🤖 EXPLORE     →  AI & intelligent systems         │
-│                                                      │
-│  🌐 CONTRIBUTE  →  Open source & community          │
-│                                                      │
-│  🏆 COMPETE     →  More hackathons                  │
-│                                                      │
-╰──────────────────────────────────────────────────────╯
-```
+</div>
 
 ---
 
-# `09` — 💡 MY DEVELOPMENT PHILOSOPHY
+## MY DEVELOPMENT PHILOSOPHY
 
 <div align="center">
 
@@ -326,7 +288,7 @@ Cybersecurity • Secure Systems • Edge Computing
 
 ---
 
-# `10` — 🤝 LET'S CONNECT
+## LET'S CONNECT
 
 <div align="center">
 
