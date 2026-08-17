@@ -1,4 +1,4 @@
-<div align="center">
+  <div align="center">
 
 <!-- HERO -->
 
@@ -70,17 +70,15 @@ I learn best by **building things, breaking things, and figuring out how to make
 
 # `01` — 🛠️ TECH STACK
 
-### Languages
+### Languages & Core Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=python,c,cpp,java,mysql,html,css" />
 </p>
 
-### Frameworks & Tools
+### Tools I Use
 
-<p>
-<img src="https://skillicons.dev/icons?i=flask,streamlit,git,github,vscode,sqlite" />
-</p>
+<p> <img src="[https://skillicons.dev/icons?i=sqlite](https://skillicons.dev/icons?i=sqlite,git,github,vscode)[,git,github,vscode](https://skillicons.dev/icons?i=sqlite,git,github,vscode)" /> </p>
 
 ### Areas I'm Exploring
 
