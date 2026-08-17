@@ -176,20 +176,6 @@ Cybersecurity • Secure Systems • Edge Computing
 
 ---
 
-## MY DEVELOPMENT PHILOSOPHY
-
-<div align="center">
-
-> ### **"Don't just learn technology. Build with it."**
-
-<br>
-
-**Learn → Build → Break → Debug → Improve → Repeat**
-
-</div>
-
----
-
 ## LET'S CONNECT
 
 <div align="center">
@@ -216,8 +202,18 @@ Cybersecurity • Secure Systems • Edge Computing
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn"/>
+<br>
 
-### `BUILD • LEARN • CREATE • REPEAT`
+<table>
+<td align="center">
+
+<h2><i>“Build it. Break it. Understand it.<br>
+Build it better.”</i></h2>
+</td>
+</table>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn"/>
 
 </div>
