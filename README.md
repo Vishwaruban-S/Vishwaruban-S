@@ -26,13 +26,11 @@
 
 ## `> whoami`
 
-## `> whoami`
-
 <div align="center">
 
-<font size="50"><strong>B.E. Computer Science Engineering @ SKCET</strong></font>
+<big><strong>B.E. Computer Science Engineering @ SKCET</strong></big>
 
-<font size="20"><strong>BS in Data Science @ IIT Madras</strong></font>
+<big><strong>BS in Data Science @ IIT Madras</strong></big>
 
 <hr>
 
