@@ -28,8 +28,8 @@
 
 <div align="center">
 
-<h3>**B.E. Computer Science Engineering @ SKCET**</h3>
-<h3>**BS in Data Science @ IIT Madras**</h3>
+<h1>**B.E. Computer Science Engineering @ SKCET**</h1>
+<h1>**BS in Data Science @ IIT Madras**</h1>
 
 *Building practical solutions with AI, software & cybersecurity.*
 
