@@ -57,13 +57,11 @@ IIT Madras
 
 <td align="center" width="25%">
 
-### 🤖
+<h2>INTERESTS</h2>
 
-**INTERESTS**
-
-Artificial Intelligence
-Software Development
-Cybersecurity
+Artificial Intelligence<br>
+Software Development<br>
+Cybersecurity<br>
 Data Science
 
 </td>
