@@ -46,10 +46,9 @@
 
 
 <h2>EDUCATION</h2>
-<br>
 B.E. CSE @ SKCET<br>
 BS Data Science @ IIT Madras
-<br>
+<br><br>
 </td>
 
 <td align="center" width="30%">
