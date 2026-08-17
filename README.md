@@ -42,21 +42,19 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="30%">
 
 
-<h3>EDUCATION</h3>
-
-B.E. CSE
-SKCET<br>
-BS Data Science
-IIT Madras
-
+<h2>EDUCATION</h2>
+<br>
+B.E. CSE @ SKCET<br>
+BS Data Science @ IIT Madras
+<br>
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 
-<h3>INTERESTS</h3>
+<h2>INTERESTS</h2>
 
 Artificial Intelligence<br>
 Software Development<br>
@@ -65,9 +63,9 @@ Data Science
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 
-<h3>BUILDING</h3>
+<h2>BUILDING</h2>
 
 AI Applications<br>
 Web Projects<br>
@@ -76,9 +74,9 @@ Hackathon MVPs
 
 </td>
 
-<td align="center" width="25%">
+<td align="center" width="30%">
 
-<h3>LEARNING</h3>
+<h2>LEARNING</h2>
 
 DSA<br>
 AI / ML<br>
