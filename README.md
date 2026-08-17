@@ -30,11 +30,9 @@
 
 <div align="center">
 
-<font size="5"><strong>B.E. Computer Science Engineering @ SKCET</strong></font>
+<font size="20"><strong>B.E. Computer Science Engineering @ SKCET</strong></font>
 
-<br>
-
-<font size="5"><strong>BS in Data Science @ IIT Madras</strong></font>
+<font size="20"><strong>BS in Data Science @ IIT Madras</strong></font>
 
 <hr>
 
