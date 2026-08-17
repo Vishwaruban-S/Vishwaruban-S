@@ -26,13 +26,19 @@
 
 ## `> whoami`
 
+## `> whoami`
+
 <div align="center">
 
-<h2>B.E. Computer Science Engineering @ SKCET</h2>
-<br>
-<h2>BS in Data Science @ IIT Madras</h2>
+<font size="5"><strong>B.E. Computer Science Engineering @ SKCET</strong></font>
 
-*Building practical solutions with AI, software & cybersecurity.*
+<br>
+
+<font size="5"><strong>BS in Data Science @ IIT Madras</strong></font>
+
+<hr>
+
+<em>Building practical solutions with AI, software & cybersecurity.</em>
 
 </div>
 
