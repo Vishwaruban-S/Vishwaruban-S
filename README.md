@@ -28,10 +28,8 @@
 
 <div align="center">
 
-### 👋 Vishwaruban S
-
-**B.E. Computer Science Engineering @ SKCET**
-**BS in Data Science @ IIT Madras**
+<h3>**B.E. Computer Science Engineering @ SKCET**</h3>
+<h3>**BS in Data Science @ IIT Madras**</h3>
 
 *Building practical solutions with AI, software & cybersecurity.*
 
