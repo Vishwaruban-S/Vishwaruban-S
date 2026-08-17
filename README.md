@@ -198,6 +198,12 @@ Cybersecurity • Secure Systems • Edge Computing
 
 </div>
 
+---
+
+<br>
+
+<div align="center">
+
 <br>
 
 <div align="center">
@@ -205,12 +211,20 @@ Cybersecurity • Secure Systems • Edge Computing
 <br>
 
 <table>
+<tr>
 <td align="center">
 
-<h2><i>“Build it. Break it. Understand it.<br>
-Build it better.”</i></h2>
+<h2><i>“The best way to predict the future is to invent it.”</i></h2>
+
+<p><strong>— Alan Kay</strong></p>
+
 </td>
+</tr>
 </table>
+
+<br>
+
+</div>
 
 <br>
 
