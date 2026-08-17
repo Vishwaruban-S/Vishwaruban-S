@@ -145,9 +145,6 @@ Cybersecurity
 
 <img src="https://raw.githubusercontent.com/Vishwaruban-S/Vishwaruban-S/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
-
-> **Note:** The snake requires a GitHub Actions workflow. We'll set that up separately after the README.
-
 </div>
 
 ---
