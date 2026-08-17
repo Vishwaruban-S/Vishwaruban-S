@@ -26,56 +26,83 @@
 
 ## `> whoami`
 
-<table>
-<tr>
-
-<td width="55%" valign="top">
+<div align="center">
 
 ### 👋 Vishwaruban S
 
-**Computer Science Engineering Student**
-**IIT Madras BS — Data Science**
+**B.E. Computer Science Engineering @ SKCET**
+**BS in Data Science @ IIT Madras**
 
-I'm interested in building practical solutions using **AI, software and cybersecurity**.
+*Building practical solutions with AI, software & cybersecurity.*
+
+</div>
 
 <br>
 
-🚀 **Builder** — Turning ideas into working prototypes
-🤖 **AI Enthusiast** — Exploring intelligent systems
-🛡️ **Security Explorer** — Learning cybersecurity
-🏆 **Hackathon Builder** — Building under pressure
+<table align="center">
+<tr>
+<td align="center" width="25%">
 
-</td>
+### 🎓
 
-<td width="45%" valign="top">
+**EDUCATION**
 
-### ⚡ CURRENTLY
+B.E. CSE
+SKCET
 
-🎓 **B.E. CSE**
-Sri Krishna College of Engineering & Technology
-
-📊 **BS in Data Science**
+BS Data Science
 IIT Madras
 
-💻 **Focus**
+</td>
 
-```text
-AI
-DSA
+<td align="center" width="25%">
+
+### 🤖
+
+**INTERESTS**
+
+Artificial Intelligence
 Software Development
 Cybersecurity
-```
-
-🌱 **Learning**
-
-```text
-Build → Break → Learn → Improve
-```
+Data Science
 
 </td>
 
+<td align="center" width="25%">
+
+### 🚀
+
+**BUILDING**
+
+AI Applications
+Web Projects
+Automation
+Hackathon MVPs
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**LEARNING**
+
+DSA
+AI / ML
+Full Stack
+Cybersecurity
+
+</td>
 </tr>
 </table>
+
+<br>
+
+<div align="center">
+
+`BUILD` → `BREAK` → `LEARN` → `IMPROVE`
+
+</div>
 
 ---
 
