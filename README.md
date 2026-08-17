@@ -31,6 +31,7 @@
 ### 👋 Vishwaruban S
 
 **B.E. Computer Science Engineering @ SKCET**
+<br>
 **BS in Data Science @ IIT Madras**
 
 *Building practical solutions with AI, software & cybersecurity.*
