@@ -1,25 +1,20 @@
-<!-- ===================== HERO ===================== -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:6E40C9,100:00D9FF&height=220&section=header&text=VISHWARUBAN%20S&fontSize=55&fontColor=FFFFFF&fontAlignY=35&desc=AI%20%7C%20SOFTWARE%20%7C%20CYBERSECURITY&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<!-- HERO -->
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VISHWARUBAN%20S&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20%7C%20CYBERSECURITY&descAlignY=60&descSize=18&animation=fadeIn&color=gradient" width="100%"/>
 
-### 👋 Hey, I'm Vishwaruban
-
-**AI & Software Developer • Hackathon Builder • CSE Student**
-
-Building practical solutions for real-world problems using
-**AI, software development, automation and cybersecurity.**
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+solutions+%F0%9F%A4%96;Turning+real-world+problems+into+software+%F0%9F%9A%80;Exploring+Cybersecurity+%F0%9F%9B%A1%EF%B8%8F;Learning+%7C+Building+%7C+Breaking+%7C+Improving" alt="Typing SVG" />
+</a>
 
 <br>
 
 <a href="https://github.com/Vishwaruban-S">
-<img src="https://img.shields.io/badge/GitHub-Vishwaruban--S-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-Vishwaruban--S-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/vishwarubans">
-<img src="https://img.shields.io/badge/LinkedIn-Vishwaruban%20S-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Vishwaruban%20S-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:vishwarubanofficial@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -29,57 +24,43 @@ Building practical solutions for real-world problems using
 
 ---
 
-## 🧠 About Me
-
-```text
-🎓 B.E. Computer Science Engineering @ SKCET
-
-🤖 Interested in AI, software development & cybersecurity
-
-🚀 I enjoy turning real-world problems into working prototypes
-
-🏆 National-level hackathon participant & 3rd place winner
-
-💻 Currently improving DSA, full-stack development & AI
-
-⚡ Learning by building, breaking and rebuilding things
-```
-
----
-
-## ⚡ What I'm Building
+## `> whoami`
 
 <table>
 <tr>
-<td width="50%">
+<td width="60%" valign="top">
 
-### 🤖 AI Systems
+### 👋 Hey, I'm Vishwaruban
 
-Building AI-powered applications that solve practical problems.
+I'm a **Computer Science Engineering student at SKCET** who enjoys turning real-world problems into practical software solutions.
 
-</td>
-<td width="50%">
+My main interests currently revolve around:
 
-### 🛡️ Cybersecurity
+* 🤖 Artificial Intelligence
+* 💻 Software Development
+* 🛡️ Cybersecurity
+* 🧠 Data Structures & Algorithms
+* 🚀 Rapid Prototyping & Hackathons
 
-Exploring intelligent security systems and autonomous recovery.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🌐 Software
-
-Building web applications, dashboards and useful tools.
+I learn best by **building things, breaking things, and figuring out how to make them better.**
 
 </td>
-<td width="50%">
 
-### 🧠 Problem Solving
+<td width="40%" valign="top">
 
-Improving DSA and applying computer science concepts through projects.
+### ⚡ Quick Facts
+
+🎓 **B.E. CSE** @ SKCET
+
+🤖 **AI & Software Enthusiast**
+
+🏆 **National-level Hackathon Winner**
+
+🚀 **Hackathon Builder**
+
+🧠 **DSA Learner**
+
+🌱 **Always Learning**
 
 </td>
 </tr>
@@ -87,12 +68,12 @@ Improving DSA and applying computer science concepts through projects.
 
 ---
 
-# 🛠️ Tech Stack
+# `01` — 🛠️ TECH STACK
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,c,java,html,css,mysql" />
+<img src="https://skillicons.dev/icons?i=python,c,java,mysql,html,css" />
 </p>
 
 ### Frameworks & Tools
@@ -101,44 +82,44 @@ Improving DSA and applying computer science concepts through projects.
 <img src="https://skillicons.dev/icons?i=flask,streamlit,git,github,vscode,sqlite" />
 </p>
 
-### Areas
+### Areas I'm Exploring
 
 <p>
 <img src="https://img.shields.io/badge/Artificial%20Intelligence-8A2BE2?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cybersecurity-111111?style=for-the-badge&logo=hackthebox&logoColor=white"/>
-<img src="https://img.shields.io/badge/Data%20Structures-007ACC?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Web%20Development-00ADD8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-6E40C9?style=for-the-badge&logo=googlegemini&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-007ACC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Web%20Development-00ADD8?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# `02` — 🚀 WHAT I'M BUILDING
 
 <table>
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 SOLVINAI
+### 🤖 AI Applications
 
-AI-powered municipal grievance management system designed to classify, prioritize and route citizen complaints.
+Building practical AI-powered applications rather than just experimenting with models.
 
-**Focus:** AI • Automation • Dashboard • APIs
+**Focus**
 
-`Python` `AI` `Flask` `Gmail`
+`AI` `Automation` `NLP` `Intelligent Systems`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🛡️ AutoShield
+### 🛡️ Cybersecurity
 
-AI-driven decentralized cyber immune system exploring edge security, autonomous recovery and distributed security concepts.
+Exploring systems that combine AI, edge computing and autonomous security concepts.
 
-**Focus:** Cybersecurity • AI • Edge Computing
+**Focus**
 
-`Python` `ESP32` `AI` `Security`
+`Cybersecurity` `Edge Computing` `AI`
 
 </td>
 
@@ -146,27 +127,27 @@ AI-driven decentralized cyber immune system exploring edge security, autonomous 
 
 <tr>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🌐 VaaniSetu
+### 🌐 Software
 
-AI-powered communication and accessibility focused project built to address real-world communication challenges.
+Building dashboards, web applications, APIs and useful developer tools.
 
-**Focus:** AI • Web • Accessibility
+**Focus**
 
-`Python` `AI` `Web`
+`Python` `Flask` `Streamlit` `Web`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🖱️ TouchAutomate
+### 🧠 Problem Solving
 
-A no-code interaction concept designed to make industrial systems easier to operate using visual controls and voice interaction.
+Currently strengthening DSA and applying computer science fundamentals through projects.
 
-**Focus:** Automation • No-Code • UX
+**Focus**
 
-`Python` `Automation` `AI`
+`DSA` `Algorithms` `Problem Solving`
 
 </td>
 
@@ -175,95 +156,267 @@ A no-code interaction concept designed to make industrial systems easier to oper
 
 ---
 
-# 🏆 Achievements
+# `03` — 🔥 FEATURED PROJECTS
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+## 🤖 SOLVINAI
+
+**AI-powered municipal grievance management**
+
+A system designed to help municipal dispatch clerks process, classify, prioritize and route citizen complaints more efficiently.
+
+**Core Ideas**
+
+* 📩 Complaint processing
+* 🤖 AI classification
+* 📍 Location-based routing
+* ⚡ Urgency scoring
+* 🔍 Duplicate detection
+* 📊 Administrative dashboard
+
+`Python` `AI` `Flask` `Gmail` `Dashboard`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🛡️ AutoShield
+
+**AI-driven decentralized cyber immune system**
+
+A cybersecurity concept combining edge computing, autonomous recovery and distributed security mechanisms.
+
+**Core Ideas**
+
+* 🖥️ ESP32 edge device
+* 🤖 AI-assisted detection
+* 🔄 Autonomous recovery
+* 🔐 Cybersecurity
+* ⛓️ Distributed security concepts
+
+`Python` `ESP32` `AI` `Cybersecurity`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🌐 VaaniSetu
+
+**AI-powered communication project**
+
+A project focused on using technology and AI to address real-world communication and accessibility challenges.
+
+**Focus**
+
+* 🤖 AI
+* 🌐 Web
+* ♿ Accessibility
+* 💡 Social impact
+
+`Python` `AI` `Web`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🖱️ TouchAutomate
+
+**No-code interaction concept**
+
+Exploring ways to make industrial systems easier to operate through visual controls, simplified interfaces and voice interaction.
+
+**Focus**
+
+* 🎛️ No-code interaction
+* 🎙️ Voice control
+* 🏭 Industrial usability
+* ⚡ Automation
+
+`Python` `Automation` `AI`
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# `04` — 🏆 ACHIEVEMENTS
+
+<div align="center">
 
 ### 🥉 3rd Place — National Level Hackathon
 
 **PROTO-THON '26**
 
-Cyber Security Domain
+**Cyber Security Domain**
 
-Built and presented an AI-driven cybersecurity solution as part of a competitive hackathon team.
+Built and presented a cybersecurity-focused solution as part of a competitive national-level hackathon.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td>
+
+🏆 **Hackathons**
+
+Participated in multiple hackathons and rapid-prototyping challenges.
+
+</td>
+
+<td>
+
+🤝 **Team Experience**
+
+Worked collaboratively with experienced senior team members.
+
+</td>
+
+<td>
+
+🎤 **Presentation**
+
+Presented technical solutions and project ideas under time constraints.
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🏅 Other Highlights
-
-* 🚀 Participated in multiple hackathons
-* 🤝 Worked with experienced senior team members
-* 💡 Built rapid prototypes under hackathon time constraints
-* 🎤 Presented technical solutions and project ideas
-* 📜 Master in Java Programming
-* 🤖 AI/ML learning & project experience
-
----
-
-# 📊 GitHub Analytics
+# `05` — 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vishwaruban-S&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Vishwaruban-S&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" height="180"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwaruban-S&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishwaruban-S&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" height="180"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Vishwaruban-S&theme=tokyonight&hide_border=true" width="70%"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Streak
+# `06` — 🐍 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Vishwaruban-S&theme=tokyonight&hide_border=true" />
+<img src="https://raw.githubusercontent.com/Vishwaruban-S/Vishwaruban-S/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </div>
 
----
-
-# 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Vishwaruban-S/Vishwaruban-S/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+> **Note:** The snake requires a GitHub Actions workflow. We'll set that up separately after the README.
 
 ---
 
-# 📚 Currently Learning
+# `07` — 📚 CURRENTLY LEARNING
+
+<table>
+<tr>
+<td align="center">
+
+### 🧠 DSA
+
+Arrays • Strings • Linked Lists • Stacks • Queues • Graphs • Algorithms
+
+</td>
+
+<td align="center">
+
+### 🤖 AI
+
+AI Applications • Generative AI • Intelligent Systems
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### 🌐 Development
+
+Web Development • APIs • Flask • Streamlit
+
+</td>
+
+<td align="center">
+
+### 🛡️ Security
+
+Cybersecurity • Secure Systems • Edge Computing
+
+</td>
+</tr>
+</table>
+
+---
+
+# `08` — 🎯 2026 MISSION
 
 ```text
-DSA                    ███████████████░░░░░  75%
-
-Python Development     █████████████████░░░  85%
-
-AI / ML                █████████████░░░░░░░  65%
-
-Full Stack Development ███████████░░░░░░░░░  55%
-
-Cybersecurity          ██████████░░░░░░░░░░  50%
+╭──────────────────────────────────────────────────────╮
+│                                                      │
+│  🚀 BUILD       →  Meaningful real-world projects   │
+│                                                      │
+│  🧠 MASTER      →  DSA & Computer Science           │
+│                                                      │
+│  🤖 EXPLORE     →  AI & intelligent systems         │
+│                                                      │
+│  🛡️ LEARN       →  Cybersecurity                    │
+│                                                      │
+│  🌐 CONTRIBUTE  →  Open source & community          │
+│                                                      │
+│  🏆 COMPETE     →  More hackathons                  │
+│                                                      │
+│  💼 PREPARE     →  Become placement-ready           │
+│                                                      │
+╰──────────────────────────────────────────────────────╯
 ```
 
 ---
 
-# 🎯 2026 Goals
+# `09` — 💡 MY DEVELOPMENT PHILOSOPHY
 
-* [ ] Build 5+ meaningful projects
-* [ ] Improve DSA & problem solving
-* [ ] Build production-quality AI applications
-* [ ] Contribute to open source
-* [ ] Participate in more hackathons
-* [ ] Build a strong developer portfolio
-* [ ] Become placement-ready for 3rd year
+<div align="center">
+
+> ### **"Don't just learn technology. Build with it."**
+
+<br>
+
+**Learn → Build → Break → Debug → Improve → Repeat**
+
+</div>
 
 ---
 
-# 💬 Let's Connect
+# `10` — 🤝 LET'S CONNECT
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/vishwarubans">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:vishwarubanofficial@gmail.com">
@@ -274,14 +427,18 @@ Cybersecurity          ██████████░░░░░░░░░
 <img src="https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
+<a href="https://github.com/Vishwaruban-S">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+</a>
+
 </div>
 
 <br>
 
 <div align="center">
 
-### 🚀 Build. Break. Learn. Repeat.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&animation=fadeIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:6E40C9,100:0D1117&height=120&section=footer"/>
+### `BUILD • LEARN • CREATE • REPEAT`
 
 </div>
