@@ -78,7 +78,7 @@ I learn best by **building things, breaking things, and figuring out how to make
 
 ### Tools I Use
 
-<p> <img src="[https://skillicons.dev/icons?i=sqlite](https://skillicons.dev/icons?i=sqlite,git,github,vscode)[,git,github,vscode](https://skillicons.dev/icons?i=sqlite,git,github,vscode)" /> </p>
+<p> <img src="https://skillicons.dev/icons?i=sqlite,git,github,vscode" /> </p>
 
 ### Areas I'm Exploring
 
