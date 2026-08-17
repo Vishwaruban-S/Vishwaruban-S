@@ -24,123 +24,75 @@
 
 ---
 
-# `> whoami`
-
-<br>
+## `> whoami`
 
 <div align="center">
 
-### **B.E. COMPUTER SCIENCE ENGINEERING @ SKCET**
+### 👋 Vishwaruban S
 
-### **BS IN DATA SCIENCE @ IIT MADRAS**
+**B.E. Computer Science Engineering @ SKCET**
+**BS in Data Science @ IIT Madras**
 
-<br>
-
-### *Building practical solutions with AI, software & cybersecurity.*
+*Building practical solutions with AI, software & cybersecurity.*
 
 </div>
 
 <br>
 
----
-
-<br>
-
-<table>
+<table align="center">
 <tr>
-
 <td align="center" width="25%">
 
-<h1>01</h1>
+### 🎓
 
-<h2>EDUCATION</h2>
+**EDUCATION**
 
-<hr width="70%">
-
-<h3>B.E. CSE</h3>
-
+B.E. CSE
 SKCET
 
-<br><br>
-
-<h3>BS Data Science</h3>
-
+BS Data Science
 IIT Madras
 
 </td>
 
 <td align="center" width="25%">
 
-<h1>02</h1>
+### 🤖
 
-<h2>INTERESTS</h2>
-
-<hr width="70%">
+**INTERESTS**
 
 Artificial Intelligence
-
-<br><br>
-
 Software Development
-
-<br><br>
-
 Cybersecurity
-
-<br><br>
-
 Data Science
 
 </td>
 
 <td align="center" width="25%">
 
-<h1>03</h1>
+### 🚀
 
-<h2>BUILDING</h2>
-
-<hr width="70%">
+**BUILDING**
 
 AI Applications
-
-<br><br>
-
 Web Projects
-
-<br><br>
-
 Automation
-
-<br><br>
-
 Hackathon MVPs
 
 </td>
 
 <td align="center" width="25%">
 
-<h1>04</h1>
+### 🧠
 
-<h2>LEARNING</h2>
-
-<hr width="70%">
+**LEARNING**
 
 DSA
-
-<br><br>
-
 AI / ML
-
-<br><br>
-
 Full Stack
-
-<br><br>
-
 Cybersecurity
 
 </td>
-
 </tr>
 </table>
 
@@ -148,15 +100,7 @@ Cybersecurity
 
 <div align="center">
 
----
-
-<br>
-
-<h2>BUILD &nbsp;&nbsp; → &nbsp;&nbsp; BREAK &nbsp;&nbsp; → &nbsp;&nbsp; LEARN &nbsp;&nbsp; → &nbsp;&nbsp; IMPROVE</h2>
-
-<br>
-
----
+`BUILD` → `BREAK` → `LEARN` → `IMPROVE`
 
 </div>
 
