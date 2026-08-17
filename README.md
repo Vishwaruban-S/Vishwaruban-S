@@ -92,69 +92,8 @@ I learn best by **building things, breaking things, and figuring out how to make
 
 ---
 
-# `02` — 🚀 WHAT I'M BUILDING
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🤖 AI Applications
-
-Building practical AI-powered applications rather than just experimenting with models.
-
-**Focus**
-
-`AI` `Automation` `NLP` `Intelligent Systems`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ Cybersecurity
-
-Exploring systems that combine AI, edge computing and autonomous security concepts.
-
-**Focus**
-
-`Cybersecurity` `Edge Computing` `AI`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🌐 Software
-
-Building dashboards, web applications, APIs and useful developer tools.
-
-**Focus**
-
-`Python` `Flask` `Streamlit` `Web`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧠 Problem Solving
-
-Currently strengthening DSA and applying computer science fundamentals through projects.
-
-**Focus**
-
-`DSA` `Algorithms` `Problem Solving`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# `03` — 🔥 FEATURED PROJECTS
+# `02` — 🔥 FEATURED PROJECTS
 
 <div align="center">
 
@@ -251,52 +190,6 @@ Exploring ways to make industrial systems easier to operate through visual contr
 
 ---
 
-# `04` — 🏆 ACHIEVEMENTS
-
-<div align="center">
-
-### 🥉 3rd Place — National Level Hackathon
-
-**PROTO-THON '26**
-
-**Cyber Security Domain**
-
-Built and presented a cybersecurity-focused solution as part of a competitive national-level hackathon.
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td>
-
-🏆 **Hackathons**
-
-Participated in multiple hackathons and rapid-prototyping challenges.
-
-</td>
-
-<td>
-
-🤝 **Team Experience**
-
-Worked collaboratively with experienced senior team members.
-
-</td>
-
-<td>
-
-🎤 **Presentation**
-
-Presented technical solutions and project ideas under time constraints.
-
-</td>
-</tr>
-</table>
-
----
-
 # `05` — 📊 GITHUB ANALYTICS
 
 <div align="center">
@@ -382,13 +275,9 @@ Cybersecurity • Secure Systems • Edge Computing
 │                                                      │
 │  🤖 EXPLORE     →  AI & intelligent systems         │
 │                                                      │
-│  🛡️ LEARN       →  Cybersecurity                    │
-│                                                      │
 │  🌐 CONTRIBUTE  →  Open source & community          │
 │                                                      │
 │  🏆 COMPETE     →  More hackathons                  │
-│                                                      │
-│  💼 PREPARE     →  Become placement-ready           │
 │                                                      │
 ╰──────────────────────────────────────────────────────╯
 ```
