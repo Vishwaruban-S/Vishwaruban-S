@@ -67,26 +67,22 @@ Data Science
 
 <td align="center" width="25%">
 
-### 🚀
+<h2>BUILDING</h2>
 
-**BUILDING**
-
-AI Applications
-Web Projects
-Automation
+AI Applications<br>
+Web Projects<br>
+Automation<br>
 Hackathon MVPs
 
 </td>
 
 <td align="center" width="25%">
 
-### 🧠
+<h2>LEARNING</h2>
 
-**LEARNING**
-
-DSA
-AI / ML
-Full Stack
+DSA<br>
+AI / ML<br>
+Full Stack<br>
 Cybersecurity
 
 </td>
