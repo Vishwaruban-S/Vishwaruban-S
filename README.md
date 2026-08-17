@@ -28,11 +28,9 @@
 
 <div align="center">
 
-***B.E. Computer Science Engineering @ SKCET***
+**B.E. Computer Science Engineering @ SKCET**
 
-<br>
-
-***BS in Data Science @ IIT Madras***
+**BS in Data Science @ IIT Madras**
 
 <hr>
 
