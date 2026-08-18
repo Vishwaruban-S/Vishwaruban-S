@@ -125,17 +125,15 @@ Cybersecurity
 
 ## GITHUB ANALYTICS
 
-<div align="center">
-
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Vishwaruban-S&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
 
 <br>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Vishwaruban-S&theme=tokyonight&hide_border=true" width="70%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vishwaruban-S&theme=tokyo-night&hide_border=true" width="95%"/>
+</p>
 
 ---
 
