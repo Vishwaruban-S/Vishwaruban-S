@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 <!-- HERO -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=VISHWARUBAN%20S&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20SOFTWARE%20%7C%20FULL-STACK%20%7C%20IOT&descAlignY=60&descSize=18&animation=fadeIn&color=gradient" width="100%"/>
